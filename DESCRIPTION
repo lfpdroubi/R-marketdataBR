@@ -11,7 +11,7 @@ LazyData: true
 Imports:
   stringr,
   proto,
-  textparser
+  transmute
 Suggests:
   testthat
 Collate:
